@@ -1,2 +1,5 @@
 # Configuración inicial
 timeout=30
+max_retries=3
+log_level=INFO
+debug=false
